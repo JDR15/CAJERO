@@ -1,7 +1,7 @@
 package com.example.programacionor_2687390.Ejemplo2
 
 class Cajero {
-    val cliente1:Cliente = Cliente("Jaider", 100000f)
+    val cliente1:Cliente = Cliente("Johan", 100000f)
     val cliente2:Cliente = Cliente("Maria", 150000f)
     val cliente3:Cliente = Cliente("Pedro", 30000f)
 
